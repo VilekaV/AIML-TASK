@@ -7,5 +7,5 @@ Tools Used
 
 Python (Jupyter Notebook)
 Libraries: pandas, numpy, seaborn, matplotlib, scikit-learn
-[datacleaningpreprocessing.task1-output.pdf]
+datacleaningpreprocessing.task1-output.pdf
 
